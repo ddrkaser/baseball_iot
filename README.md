@@ -1,5 +1,10 @@
 # baseball_iot
+Pitch Stats
+
+![image](https://user-images.githubusercontent.com/15245703/200095597-fc682ecb-e2e4-4eeb-9c4a-7c0959328047.png)
+
 Original Clip
+
 https://user-images.githubusercontent.com/15245703/200094631-7895cdd3-0696-45e5-87c9-771caf2c84d9.mp4
 
 Cropped Clip
@@ -8,5 +13,5 @@ https://user-images.githubusercontent.com/15245703/200094640-58958e73-9884-49b1-
 
 Pose estimation
 
-https://user-images.githubusercontent.com/15245703/200094645-3f4508de-da39-44c0-ac2c-3b3b33b25d1d.mp4
+https://user-images.githubusercontent.com/15245703/200095361-d5f8091d-b2eb-41a3-8080-fdb8c9b4f1b6.mp4
 
