@@ -21,9 +21,12 @@ The plot on the top left indicates the confidence level for each pitch type: the
 
 Test video 01 -- ground truth: Curveball, prediction: Curveball
 
-https://user-images.githubusercontent.com/15245703/207768227-9edd3d5a-7bc6-4e65-9388-465e549ea660.mp4
+https://user-images.githubusercontent.com/15245703/207769100-2bf63ad8-2d20-45bb-b956-dab6a0b6a6b9.mp4
 
 Test video 02 -- ground truth: Four-Seam Fastball, prediction: Four-Seam Fastball
 
-https://user-images.githubusercontent.com/15245703/207768243-01d9d85a-b3c3-4c35-a5e6-3bb455312268.mp4
+https://user-images.githubusercontent.com/15245703/207769173-08beec06-c4a1-4e20-a048-4fc291d68ab6.mp4
+
+
+
 
