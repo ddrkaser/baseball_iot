@@ -119,7 +119,7 @@ plt.show()
 ck_2020.iloc[discord_idx:discord_idx+m,]
 #he has the 3 ER (second highest), 2 BB (tie highest), 3 SO (tie lowest) on 09/09 game
 
-#kmeans
+#k_means
 kmeans = KMeans(n_clusters=3)
 prediction = kmeans.fit_predict(pca_data)
 fig, ax = plt.subplots(figsize=(8, 6))
