@@ -1,4 +1,4 @@
-# baseball_iot
+# baseball_analysis
 Pitch Stats
 
 ![image](https://user-images.githubusercontent.com/15245703/200095597-fc682ecb-e2e4-4eeb-9c4a-7c0959328047.png)
