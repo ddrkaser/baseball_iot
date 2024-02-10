@@ -123,7 +123,7 @@ plt.show()
 ck_2022.iloc[discord_idx:discord_idx+m,]
 #he has 8 hits (second highest), the 3 ER (second highest), 2 BB (tie highest), 3 SO (tie lowest) on 07/30 game
 
-#K-Means
+#K_Means
 kmeans = KMeans(n_clusters=3)
 prediction = kmeans.fit_predict(pca_data)
 fig, ax = plt.subplots(figsize=(8, 6))
