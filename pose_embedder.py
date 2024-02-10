@@ -29,7 +29,6 @@ class FullBodyPoseEmbedder(object):
 
   def __call__(self, landmarks):
     """Normalizes pose landmarks and converts to embedding
-
     Args:
       landmarks - NumPy array with 3D landmarks of shape (N, 3).
 
